@@ -1,0 +1,7 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#F0F8FF"/>
+  <path d="M 80 80 L 220 80 Q 240 80 240 100 L 240 220 Q 240 240 220 240 L 80 240 Q 60 240 60 220 L 60 100 Q 60 80 80 80 Z" fill="#87CEEB" stroke="#4169E1" stroke-width="2"/>
+  <rect x="90" y="110" width="120" height="100" fill="#B0E0E6"/>
+  <text x="150" y="250" text-anchor="middle" font-size="14" fill="#4169E1" font-weight="bold">Decorative</text>
+  <text x="150" y="275" text-anchor="middle" font-size="12" fill="#4169E1">Bottle</text>
+</svg>

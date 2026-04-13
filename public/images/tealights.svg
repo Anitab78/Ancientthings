@@ -1,0 +1,11 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#FFFACD"/>
+  <circle cx="100" cy="120" r="25" fill="#FF6347"/>
+  <circle cx="150" cy="120" r="25" fill="#FF6347"/>
+  <circle cx="200" cy="120" r="25" fill="#FF6347"/>
+  <circle cx="100" cy="180" r="25" fill="#FFD700"/>
+  <circle cx="150" cy="180" r="25" fill="#FFD700"/>
+  <circle cx="200" cy="180" r="25" fill="#FFD700"/>
+  <text x="150" y="260" text-anchor="middle" font-size="14" fill="#8B4513" font-weight="bold">Tealights</text>
+  <text x="150" y="285" text-anchor="middle" font-size="12" fill="#8B4513">Pack</text>
+</svg>

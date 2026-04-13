@@ -1,0 +1,8 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#E6E6FA"/>
+  <circle cx="150" cy="150" r="80" fill="#4B0082" stroke="#FFD700" stroke-width="3"/>
+  <line x1="150" y1="70" x2="150" y2="230" stroke="#FFD700" stroke-width="2"/>
+  <line x1="70" y1="150" x2="230" y2="150" stroke="#FFD700" stroke-width="2"/>
+  <text x="150" y="260" text-anchor="middle" font-size="16" fill="#4B0082" font-weight="bold">Wall</text>
+  <text x="150" y="285" text-anchor="middle" font-size="14" fill="#4B0082">Clock</text>
+</svg>

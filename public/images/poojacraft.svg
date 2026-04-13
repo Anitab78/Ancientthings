@@ -1,0 +1,6 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#FFD700"/>
+  <circle cx="150" cy="150" r="80" fill="#DAA520"/>
+  <text x="150" y="145" text-anchor="middle" font-size="20" fill="white" font-weight="bold">Brass</text>
+  <text x="150" y="175" text-anchor="middle" font-size="18" fill="white">Pooja Lamp</text>
+</svg>

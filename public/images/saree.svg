@@ -1,0 +1,6 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#FFE4E1"/>
+  <path d="M 50 100 L 150 50 L 250 100 L 250 250 Q 150 280 50 250 Z" fill="#FF69B4"/>
+  <text x="150" y="160" text-anchor="middle" font-size="16" fill="white" font-weight="bold">Traditional</text>
+  <text x="150" y="190" text-anchor="middle" font-size="14" fill="white">Saree</text>
+</svg>
